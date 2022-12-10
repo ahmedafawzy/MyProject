@@ -1,0 +1,1 @@
+#define ahmed 0
